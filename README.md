@@ -71,13 +71,13 @@ Pi Camera Module 3  (640×640 frame)
 
 | Component | Specification | Cost |
 |---|---|---|
-| Raspberry Pi 5 | 16 GB RAM, ARM Cortex-A76 quad-core 2.4 GHz, no NPU | ₹5,500 |
-| Pi Camera Module 3 | Sony IMX708, 12 MP, phase-detect autofocus, CSI | lab-provided |
-| HC-SR04 Ultrasonic ×4 | 3–400 cm, 5V — 1kΩ+2kΩ voltage divider on ECHO pin | ₹80 each |
-| LEDs (Red / Yellow / Green) | GPIO 27 / 22 / 5, 220Ω resistors | ₹30 |
-| Piezo Buzzer ×2 | GPIO 17, NPN transistor driver | ₹40 |
-| Breadboard + jumpers | Dedicated GND wire from Pi pin 6 to rail | ₹80 |
-| **Total** | | **~₹12,000** |
+| Raspberry Pi 5 | 16 GB RAM, ARM Cortex-A76 quad-core 2.4 GHz, no NPU |
+| Pi Camera Module 3 | Sony IMX708, 12 MP, phase-detect autofocus, CSI |
+| HC-SR04 Ultrasonic ×4 | 3–400 cm, 5V — 1kΩ+2kΩ voltage divider on ECHO pin |
+| LEDs (Red / Yellow / Green) | GPIO 27 / 22 / 5, 220Ω resistors |
+| Piezo Buzzer ×2 | GPIO 17, NPN transistor driver |
+| Breadboard + jumpers | Dedicated GND wire from Pi pin 6 to rail |
+
 
 **GPIO pinout:** TRIG=GPIO23, ECHO=GPIO24 (via divider), Red=GPIO27, Yellow=GPIO22, Green=GPIO5, Buzzer=GPIO17
 
