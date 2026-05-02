@@ -10,3 +10,10 @@ rides/
 *.mp4
 *.mov
 calibration_image_sample_data_20x128x128x3_float32.npy
+datasets/
+weights/
+*.pt
+*.onnx
+*.tflite
+*.keras
+*.npy
