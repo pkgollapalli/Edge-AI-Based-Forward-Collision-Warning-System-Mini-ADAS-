@@ -123,8 +123,8 @@ Split: 4,000 train / 1,000 val, packaged with 28-class `data.yaml` via `prep_kag
 
 ### Pothole Dataset
 
-~2,000 images with bounding-box annotations labelled by **Ramavath Ramadas**.
-Fine-tuning conducted by **Harshith L** starting from the peterhdd HuggingFace checkpoint.
+~2,000 images with bounding-box annotations labelled.
+Fine-tuning conducted starting from the peterhdd HuggingFace checkpoint.
 
 ---
 
