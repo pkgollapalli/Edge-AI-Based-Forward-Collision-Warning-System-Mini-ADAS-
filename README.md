@@ -69,8 +69,8 @@ Pi Camera Module 3  (640×640 frame)
 
 ### Hardware
 
-| Component | Specification | Cost |
-|---|---|---|
+| Component | Specification |
+|---|---|
 | Raspberry Pi 5 | 16 GB RAM, ARM Cortex-A76 quad-core 2.4 GHz, no NPU |
 | Pi Camera Module 3 | Sony IMX708, 12 MP, phase-detect autofocus, CSI |
 | HC-SR04 Ultrasonic ×4 | 3–400 cm, 5V — 1kΩ+2kΩ voltage divider on ECHO pin |
