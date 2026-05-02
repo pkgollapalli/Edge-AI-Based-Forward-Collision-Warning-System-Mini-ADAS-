@@ -2,11 +2,15 @@
 
 **Course:** [CP 330 Edge AI, IISc Bangalore, 2025–26](https://www.samy101.com/edge-ai-26/)
 
+**Course Instructor**: Professor. Arjunan Pandarasamy
+
 **Team:** G. Praveen Kumar (27480) · Harshith L (25823) · Ramavath Ramadas (26671) — IISc Bangalore
 
 **GitHub:** https://github.com/pkgollapalli/Edge-AI-Based-Forward-Collision-Warning-System-Mini-ADAS-
 
 **Demo Video:** https://drive.google.com/file/d/17ozvJKcGhI04Ee1GiV4t7_XwOYlB_EYV/view?usp=drive_link
+
+**PPT Video:** https://drive.google.com/file/d/17GXxgrqTHWVSV52N6DIeY0MZCtL3C4Rx/view?usp=sharing
 
 ---
 
