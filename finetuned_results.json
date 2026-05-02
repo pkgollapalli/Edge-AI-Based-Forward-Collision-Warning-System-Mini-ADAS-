@@ -1,0 +1,122 @@
+{
+  "model": "fine_tuned_driveindia",
+  "images_tested": 2500,
+  "avg_latency_ms": 49.92669792175293,
+  "per_class": {
+    "person": {
+      "gt_images": 1466,
+      "correct": 1381,
+      "recall_pct": 94.20190995907231
+    },
+    "animal": {
+      "gt_images": 38,
+      "correct": 7,
+      "recall_pct": 18.421052631578945
+    },
+    "bicycle": {
+      "gt_images": 1739,
+      "correct": 1696,
+      "recall_pct": 97.52731454859115
+    },
+    "car": {
+      "gt_images": 1423,
+      "correct": 1384,
+      "recall_pct": 97.25931131412509
+    },
+    "motorcycle": {
+      "gt_images": 85,
+      "correct": 71,
+      "recall_pct": 83.52941176470588
+    },
+    "bus": {
+      "gt_images": 296,
+      "correct": 186,
+      "recall_pct": 62.83783783783784
+    },
+    "commercial_vehicle": {
+      "gt_images": 397,
+      "correct": 188,
+      "recall_pct": 47.3551637279597
+    },
+    "truck": {
+      "gt_images": 407,
+      "correct": 283,
+      "recall_pct": 69.53316953316954
+    },
+    "autorickshaw": {
+      "gt_images": 247,
+      "correct": 210,
+      "recall_pct": 85.02024291497976
+    },
+    "ambulance": {
+      "gt_images": 56,
+      "correct": 35,
+      "recall_pct": 62.5
+    },
+    "police_vehicle": {
+      "gt_images": 713,
+      "correct": 651,
+      "recall_pct": 91.30434782608695
+    },
+    "pushcart": {
+      "gt_images": 5,
+      "correct": 0,
+      "recall_pct": 0.0
+    },
+    "pothole": {
+      "gt_images": 21,
+      "correct": 7,
+      "recall_pct": 33.33333333333333
+    },
+    "route_board": {
+      "gt_images": 7,
+      "correct": 0,
+      "recall_pct": 0.0
+    },
+    "temp_barrier": {
+      "gt_images": 3,
+      "correct": 1,
+      "recall_pct": 33.33333333333333
+    },
+    "rumblestrips": {
+      "gt_images": 16,
+      "correct": 4,
+      "recall_pct": 25.0
+    },
+    "unmarked_bump": {
+      "gt_images": 5,
+      "correct": 0,
+      "recall_pct": 0.0
+    },
+    "marked_bump": {
+      "gt_images": 3,
+      "correct": 1,
+      "recall_pct": 33.33333333333333
+    },
+    "zebra_crossing": {
+      "gt_images": 62,
+      "correct": 56,
+      "recall_pct": 90.32258064516128
+    },
+    "cls_24": {
+      "gt_images": 33,
+      "correct": 28,
+      "recall_pct": 84.84848484848484
+    },
+    "cls_25": {
+      "gt_images": 8,
+      "correct": 1,
+      "recall_pct": 12.5
+    },
+    "cls_26": {
+      "gt_images": 6,
+      "correct": 0,
+      "recall_pct": 0.0
+    },
+    "cls_27": {
+      "gt_images": 3,
+      "correct": 0,
+      "recall_pct": 0.0
+    }
+  }
+}

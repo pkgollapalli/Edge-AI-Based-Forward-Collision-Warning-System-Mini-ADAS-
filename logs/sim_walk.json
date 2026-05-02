@@ -1,0 +1,138 @@
+[
+  {
+    "step": 0,
+    "level": "WARN",
+    "distance_cm": 120,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 120cm",
+    "latency_ms": 10.932683944702148
+  },
+  {
+    "step": 1,
+    "level": "WARN",
+    "distance_cm": 110,
+    "closing_speed_cmps": 46.617518425033374,
+    "ttc_s": 2.3596279621124268,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 110cm",
+    "latency_ms": 8.123159408569336
+  },
+  {
+    "step": 2,
+    "level": "WARN",
+    "distance_cm": 95,
+    "closing_speed_cmps": 58.50256561325047,
+    "ttc_s": 1.6238604068756104,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 95cm",
+    "latency_ms": 8.330345153808594
+  },
+  {
+    "step": 3,
+    "level": "WARN",
+    "distance_cm": 80,
+    "closing_speed_cmps": 62.40047369744361,
+    "ttc_s": 1.2820415496826172,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 80cm",
+    "latency_ms": 9.947061538696289
+  },
+  {
+    "step": 4,
+    "level": "WARN",
+    "distance_cm": 75,
+    "closing_speed_cmps": 52.73253942710009,
+    "ttc_s": 1.422271728515625,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 75cm",
+    "latency_ms": 7.735252380371094
+  },
+  {
+    "step": 5,
+    "level": "WARN",
+    "distance_cm": 80,
+    "closing_speed_cmps": 35.252650901340076,
+    "ttc_s": 2.2693328857421875,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 80cm",
+    "latency_ms": 7.566928863525391
+  },
+  {
+    "step": 6,
+    "level": "WARN",
+    "distance_cm": 90,
+    "closing_speed_cmps": 5.866024891177322,
+    "ttc_s": 15.342587471008299,
+    "detected_classes": [
+      "motorcycle",
+      "motorcycle",
+      "motorcycle"
+    ],
+    "reason": "danger at 90cm",
+    "latency_ms": 7.643938064575195
+  },
+  {
+    "step": 7,
+    "level": "SAFE",
+    "distance_cm": 110,
+    "closing_speed_cmps": -35.17719837361281,
+    "ttc_s": null,
+    "detected_classes": [],
+    "reason": "no danger object (dist=110cm)",
+    "latency_ms": 7.838249206542969
+  },
+  {
+    "step": 8,
+    "level": "WARN",
+    "distance_cm": 130,
+    "closing_speed_cmps": -64.65578133596568,
+    "ttc_s": null,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 130cm",
+    "latency_ms": 7.614612579345703
+  },
+  {
+    "step": 9,
+    "level": "SAFE",
+    "distance_cm": 150,
+    "closing_speed_cmps": -82.31346940789511,
+    "ttc_s": null,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger present but far (150cm)",
+    "latency_ms": 7.483720779418945
+  }
+]

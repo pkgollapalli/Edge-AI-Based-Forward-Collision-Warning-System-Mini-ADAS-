@@ -1,0 +1,20 @@
+[
+  {
+    "model": "FP32",
+    "size_mb": 12.13491153717041,
+    "lat_ms": 19.247055053710938,
+    "danger_flagged": 12
+  },
+  {
+    "model": "FP16",
+    "size_mb": 6.120038032531738,
+    "lat_ms": 19.604921340942383,
+    "danger_flagged": 12
+  },
+  {
+    "model": "INT8",
+    "size_mb": 3.201706886291504,
+    "lat_ms": 8.496284484863281,
+    "danger_flagged": 11
+  }
+]

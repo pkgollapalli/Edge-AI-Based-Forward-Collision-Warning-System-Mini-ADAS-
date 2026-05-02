@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+driveindia_train1/
+driveindia_val/
+driveindia_subset/
+driveindia_kaggle/
+*.zip
+rides/
+*.mp4
+*.mov
+calibration_image_sample_data_20x128x128x3_float32.npy

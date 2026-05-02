@@ -1,0 +1,138 @@
+[
+  {
+    "step": 0,
+    "level": "SAFE",
+    "distance_cm": 200,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger present but far (200cm)",
+    "latency_ms": 32.164812088012695
+  },
+  {
+    "step": 1,
+    "level": "SAFE",
+    "distance_cm": 180,
+    "closing_speed_cmps": 85.16880740837757,
+    "ttc_s": 2.113449811935425,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger present but far (180cm)",
+    "latency_ms": 27.092695236206055
+  },
+  {
+    "step": 2,
+    "level": "WARN",
+    "distance_cm": 150,
+    "closing_speed_cmps": 106.00740936568491,
+    "ttc_s": 1.4149954319000244,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger TTC=1.41s",
+    "latency_ms": 27.18329429626465
+  },
+  {
+    "step": 3,
+    "level": "WARN",
+    "distance_cm": 110,
+    "closing_speed_cmps": 127.26423637215669,
+    "ttc_s": 0.8643433782789443,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 110cm",
+    "latency_ms": 27.149438858032227
+  },
+  {
+    "step": 4,
+    "level": "BRAKE",
+    "distance_cm": 80,
+    "closing_speed_cmps": 127.19403923503111,
+    "ttc_s": 0.6289602915445964,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger TTC=0.63s (<0.8)",
+    "latency_ms": 27.839183807373047
+  },
+  {
+    "step": 5,
+    "level": "BRAKE",
+    "distance_cm": 60,
+    "closing_speed_cmps": 127.64619550455623,
+    "ttc_s": 0.47004926204681396,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger TTC=0.47s (<0.8)",
+    "latency_ms": 26.75342559814453
+  },
+  {
+    "step": 6,
+    "level": "BRAKE",
+    "distance_cm": 40,
+    "closing_speed_cmps": 117.1965301327237,
+    "ttc_s": 0.3413070331920277,
+    "detected_classes": [
+      "motorcycle",
+      "motorcycle",
+      "motorcycle"
+    ],
+    "reason": "danger at 40cm (<50)",
+    "latency_ms": 27.265548706054688
+  },
+  {
+    "step": 7,
+    "level": "SAFE",
+    "distance_cm": 25,
+    "closing_speed_cmps": 90.51864753630106,
+    "ttc_s": 0.276186185724595,
+    "detected_classes": [],
+    "reason": "no danger object (dist=25cm)",
+    "latency_ms": 28.75065803527832
+  },
+  {
+    "step": 8,
+    "level": "BRAKE",
+    "distance_cm": 15,
+    "closing_speed_cmps": 69.42333989124694,
+    "ttc_s": 0.21606566355778623,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 15cm (<50)",
+    "latency_ms": 28.291702270507812
+  },
+  {
+    "step": 9,
+    "level": "BRAKE",
+    "distance_cm": 10,
+    "closing_speed_cmps": 53.2692692123146,
+    "ttc_s": 0.18772549629211424,
+    "detected_classes": [
+      "car",
+      "car",
+      "car"
+    ],
+    "reason": "danger at 10cm (<50)",
+    "latency_ms": 26.445627212524414
+  }
+]

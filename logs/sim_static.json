@@ -1,0 +1,114 @@
+[
+  {
+    "step": 0,
+    "level": "SAFE",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [],
+    "reason": "no danger object (dist=60cm)",
+    "latency_ms": 9.73057746887207
+  },
+  {
+    "step": 1,
+    "level": "SAFE",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [],
+    "reason": "no danger object (dist=60cm)",
+    "latency_ms": 7.9364776611328125
+  },
+  {
+    "step": 2,
+    "level": "SAFE",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [
+      "boat",
+      "boat",
+      "boat"
+    ],
+    "reason": "no danger object (dist=60cm)",
+    "latency_ms": 7.866621017456055
+  },
+  {
+    "step": 3,
+    "level": "SAFE",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [],
+    "reason": "no danger object (dist=60cm)",
+    "latency_ms": 8.047819137573242
+  },
+  {
+    "step": 4,
+    "level": "SAFE",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [],
+    "reason": "no danger object (dist=60cm)",
+    "latency_ms": 7.453680038452148
+  },
+  {
+    "step": 5,
+    "level": "SAFE",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [],
+    "reason": "no danger object (dist=60cm)",
+    "latency_ms": 7.863044738769531
+  },
+  {
+    "step": 6,
+    "level": "WARN",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [
+      "dog",
+      "dog",
+      "dog"
+    ],
+    "reason": "danger at 60cm",
+    "latency_ms": 7.399320602416992
+  },
+  {
+    "step": 7,
+    "level": "WARN",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [
+      "person",
+      "person",
+      "person"
+    ],
+    "reason": "danger at 60cm",
+    "latency_ms": 7.328510284423828
+  },
+  {
+    "step": 8,
+    "level": "SAFE",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [],
+    "reason": "no danger object (dist=60cm)",
+    "latency_ms": 8.248329162597656
+  },
+  {
+    "step": 9,
+    "level": "SAFE",
+    "distance_cm": 60,
+    "closing_speed_cmps": 0.0,
+    "ttc_s": null,
+    "detected_classes": [],
+    "reason": "no danger object (dist=60cm)",
+    "latency_ms": 7.378101348876953
+  }
+]

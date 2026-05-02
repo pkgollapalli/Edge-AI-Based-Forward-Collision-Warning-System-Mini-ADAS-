@@ -1,0 +1,49 @@
+description: Ultralytics YOLOv8n_driveindia_best model trained on /kaggle/working/data.yaml
+author: Ultralytics
+date: '2026-04-30T11:11:16.110302'
+version: 8.4.43
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 320
+- 320
+names:
+  0: person
+  1: animal
+  2: bicycle
+  3: car
+  4: motorcycle
+  5: bus
+  6: commercial_vehicle
+  7: truck
+  8: autorickshaw
+  9: ambulance
+  10: police_vehicle
+  11: tractor
+  12: pushcart
+  13: construction_vehicle
+  14: pothole
+  15: route_board
+  16: traffic_sign
+  17: traffic_light
+  18: temp_barrier
+  19: traffic_cone
+  20: rumblestrips
+  21: unmarked_bump
+  22: marked_bump
+  23: zebra_crossing
+  24: cls_24
+  25: cls_25
+  26: cls_26
+  27: cls_27
+args:
+  batch: 1
+  fraction: 1.0
+  half: false
+  int8: true
+  nms: false
+channels: 3
+end2end: false

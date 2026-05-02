@@ -1,0 +1,23 @@
+[
+  {
+    "model": "FP32",
+    "size_mb": 42.54364585876465,
+    "lat_ms": 57.718753814697266,
+    "recall_potholes": 0.6666666666666666,
+    "total_hits": 6
+  },
+  {
+    "model": "FP16",
+    "size_mb": 21.312814712524414,
+    "lat_ms": 56.72430992126465,
+    "recall_potholes": 0.6666666666666666,
+    "total_hits": 6
+  },
+  {
+    "model": "INT8",
+    "size_mb": 10.862634658813477,
+    "lat_ms": 20.20406723022461,
+    "recall_potholes": 0.6666666666666666,
+    "total_hits": 6
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "FP32 baseline",
+    "accuracy": 0.9770833333333333,
+    "size_kb": 2846.44921875,
+    "latency_ms": 0.8493661880493164,
+    "dtype": "<class 'numpy.float32'>"
+  },
+  {
+    "name": "FP16",
+    "accuracy": 0.9770833333333333,
+    "size_kb": 1453.37890625,
+    "latency_ms": 0.8759498596191406,
+    "dtype": "<class 'numpy.float32'>"
+  },
+  {
+    "name": "INT8 dynamic",
+    "accuracy": 0.9708333333333333,
+    "size_kb": 887.8046875,
+    "latency_ms": 1.3233423233032227,
+    "dtype": "<class 'numpy.float32'>"
+  },
+  {
+    "name": "INT8 full PTQ",
+    "accuracy": 0.84375,
+    "size_kb": 989.046875,
+    "latency_ms": 1.379847526550293,
+    "dtype": "<class 'numpy.float32'>"
+  },
+  {
+    "name": "Pruned 30% FP32",
+    "accuracy": 0.8302083333333333,
+    "size_kb": 2846.44921875,
+    "latency_ms": 0.8180141448974609,
+    "dtype": "<class 'numpy.float32'>"
+  },
+  {
+    "name": "Pruned + INT8",
+    "accuracy": 0.840625,
+    "size_kb": 887.8046875,
+    "latency_ms": 1.3165473937988281,
+    "dtype": "<class 'numpy.float32'>"
+  },
+  {
+    "name": "KD Student FP32",
+    "accuracy": 0.921875,
+    "size_kb": 194.3984375,
+    "latency_ms": 0.23615360260009766,
+    "dtype": "<class 'numpy.float32'>"
+  },
+  {
+    "name": "KD Student + INT8",
+    "accuracy": 0.921875,
+    "size_kb": 55.4765625,
+    "latency_ms": 0.29075145721435547,
+    "dtype": "<class 'numpy.float32'>"
+  }
+]
