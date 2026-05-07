@@ -166,7 +166,7 @@ Standard Ultralytics YOLOv8n pretrained on COCO 2017, used as global-class detec
 | person | 94.3% | 94.2% | ≈ same |
 | truck | 81.6% | 69.5% | −12.1% |
 
-### Pothole Model — Harshith L + Ramavath Ramadas
+### Pothole Model
 
 - Base: peterhdd YOLOv8n pothole checkpoint, fine-tuned on team-labelled dataset
 - Recall: **4/6** test images — identical FP32 and INT8 (zero compression degradation)
